@@ -1,7 +1,7 @@
 import unittest
 from Problem_1 import print_depth
 
-class TestTest1(unittest.TestCase):
+class Test1(unittest.TestCase):
     
     def test_print_depth(self):
         a = {
